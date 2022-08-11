@@ -53,3 +53,11 @@ html {
   left: 79%;
   width: 20%;
 }
+
+.bottomline {
+  font-family: "Courier New", Courier, monospace;
+  font-size: large;
+  position: absolute;
+  top: 100%;
+  color: white;
+}
